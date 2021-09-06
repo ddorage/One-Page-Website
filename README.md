@@ -1,4 +1,4 @@
 # One page website
  
 
-This is my firt website on html
+This is my first website on html
